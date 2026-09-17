@@ -1,0 +1,46 @@
+# Dharmik Vivek Shinde
+
+> Backend & Systems Engineer · Music & Audio Enthusiast · Runner & Leader
+
+Bengaluru & Chennai, India. B.Tech in Computer Science at VIT Chennai (expected May 2027, GPA 8.56/10). Schooling at Deeksha Center for Learning PU College, Bengaluru (92%).
+
+Hi, I'm Dharmik. I like systems—getting into computers to understand how things work across Linux, backend engineering, cloud infrastructure, and networking. Most of what I know came from building projects, running servers, and solving problems I had no idea how to handle when I started. Outside of tech: music, running, lifting, timepieces, instruments.
+
+Extremely social and collaborative — a leader and public speaker. Former school house captain. Member & former Chair of LUGVITC (Linux Users Group, VIT Chennai).
+
+## Experience
+
+- **HummingWave Technologies** — Full Stack Developer Intern, May 2026 – Jul 2026. Next.js BFF architecture, Figma implementation, AWS S3 dynamic asset storage, Flutter webview components.
+- **LumiEther Research LLP** — Backend Engineering Intern, May 2025 – Jul 2025. Custom Java (Quarkus) JSON-schema workflow engine; WebSockets + REST multimedia processing stack.
+- **Linux Users Group (LUGVITC)** — Former Member & Former Chairperson (member since Sept 2023; Chair Apr 2025 – Apr 2026). Led technical events and Cyber-0-Day CTFs; managed custom Linux VMs for 500+ participants.
+
+## Projects
+
+- **scooby** — home server infrastructure defined in code: Docker, Prometheus, Grafana, Cloudflare Tunnels. https://github.com/iamdmix/scooby
+- **dotfiles** — dotfiles and keyboard-first setup for macOS. https://github.com/iamdmix/dotfiles
+- Other open source: habit-tui (Go/Bubble Tea habit tracker), TerminalSix (CTF platform), chhaya (climate-tech). https://github.com/iamdmix
+
+## Writing
+
+Technical blog at https://blog.dharmikshinde.tech — practical systems writing, mostly Docker and Linux, written slowly from real experience. Recent pieces include "Ricing macOS Without Losing Your Mind", "Docker Engine Under the Hood", "Docker Compose, Networks & Volumes for Beginners", "Production Docker Builds: 1 GB to 15 MB", and "VMs vs. Containers: What's Actually Different".
+
+## Beyond the terminal
+
+- **Music** — keyboard (2 London College of Music exams), harmonium, tabla. Listens to house, dubstep, Afro house, reggaeton.
+- **Movement** — weightlifting, 10K running, cycling.
+- **Objects** — Casio Duro MDV-107, Timex Marlin, Nike Dunks (brown suede accents).
+
+## Links
+
+- Site: https://dharmikshinde.tech/
+- Blog: https://blog.dharmikshinde.tech/
+- GitHub: https://github.com/iamdmix
+- LinkedIn: https://www.linkedin.com/in/dharmik-vivek-shinde-891156282/
+- X: https://x.com/dharmikshinde
+- Instagram: https://www.instagram.com/shindedharmik
+- LeetCode: https://leetcode.com/u/shindedharmik/
+- Strava: https://strava.app.link/7rxe4CWIv6b
+- Apple Music: https://music.apple.com/profile/dharmikvs26
+- Spotify: https://open.spotify.com/user/5dai0qchkjtf6qd49hy1tc5pr?si=9KjsEFNqRA-LGcRZ5VZePQ&utm_source=copy-link
+- SoundCloud: https://on.soundcloud.com/dpWv5XpE7eSBqHV26d
+- Email: dharmikvs26@gmail.com
