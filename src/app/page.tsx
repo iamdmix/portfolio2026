@@ -7,6 +7,7 @@ import {
   socials,
   elsewhereSocials,
 } from "@/lib/data";
+import { EasterEgg } from "@/components/easter-egg";
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -110,7 +111,7 @@ export default function Home() {
         className="grain pointer-events-none fixed inset-0 z-40 opacity-[0.035]"
       />
 
-      <main className="relative z-10 mx-auto w-full max-w-[820px] flex-1 px-[max(1.5rem,env(safe-area-inset-left))] pb-[max(4rem,env(safe-area-inset-bottom))] pt-[max(5rem,env(safe-area-inset-top))] sm:pt-24">
+      <main className="relative z-10 mx-auto w-full max-w-[820px] flex-1 px-[max(1.5rem,env(safe-area-inset-left))] pb-[max(2rem,env(safe-area-inset-bottom))] pt-[max(5rem,env(safe-area-inset-top))] sm:pt-24">
         {/* Hero */}
         <header>
           <div className="rise flex items-end justify-between gap-6">
@@ -285,14 +286,9 @@ export default function Home() {
         </section>
 
         {/* Footer */}
-        <footer className="rise rise-3 mt-20 border-t border-zinc-800/70 pb-[max(0px,env(safe-area-inset-bottom))] pt-8">
+        <footer className="rise rise-3 mt-16 border-t border-zinc-800/70 pb-[max(0px,env(safe-area-inset-bottom))] pt-5">
           <div className="flex flex-col gap-2.5 sm:flex-row sm:items-baseline sm:justify-between">
-            <p className="font-mono text-xs text-zinc-600">
-              <span aria-hidden="true" className="text-[#7aa2f7]">
-                {"//"}
-              </span>{" "}
-              thanks for scrolling
-            </p>
+            <EasterEgg />
             <p className="font-mono text-xs text-zinc-500">
               © 2026 Dharmik Vivek Shinde ·{" "}
               <a

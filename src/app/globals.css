@@ -147,6 +147,22 @@ details[open] .plus-marker {
   transform: rotate(45deg);
 }
 
+@keyframes flash {
+  0% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.flashbang {
+  animation: flash 0.45s ease-out both;
+}
+
 @keyframes details-fade {
   from {
     opacity: 0;
