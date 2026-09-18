@@ -127,7 +127,7 @@ export default function Home() {
             </div>
             <div
               title="AWS Certified Cloud Practitioner"
-              className="shrink-0"
+              className="mb-2.5 shrink-0 sm:mb-0"
             >
               <Image
                 src="/aws-ccp.png"
@@ -290,13 +290,7 @@ export default function Home() {
           <div className="flex flex-col gap-2.5 sm:flex-row sm:items-baseline sm:justify-between">
             <EasterEgg />
             <p className="font-mono text-xs text-zinc-500">
-              © 2026 Dharmik Vivek Shinde ·{" "}
-              <a
-                href={person.site}
-                className="transition-colors hover:text-[#7aa2f7]"
-              >
-                dharmikshinde.tech
-              </a>
+              © 2026 Dharmik Vivek Shinde
             </p>
           </div>
         </footer>
