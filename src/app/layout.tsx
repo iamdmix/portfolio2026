@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     locale: "en_IN",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     site: "@dharmikshinde",
     creator: "@dharmikshinde",
     title: "Dharmik Vivek Shinde — Backend & Systems Engineer",
