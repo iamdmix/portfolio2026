@@ -22,7 +22,7 @@ Extremely social and collaborative — a leader and public speaker. Former schoo
 
 ## Writing
 
-Technical blog at https://blog.dharmikshinde.tech — practical systems writing, mostly Docker and Linux, written slowly from real experience. Recent pieces include "Ricing macOS Without Losing Your Mind", "Docker Engine Under the Hood", "Docker Compose, Networks & Volumes for Beginners", "Production Docker Builds: 1 GB to 15 MB", and "VMs vs. Containers: What's Actually Different".
+Technical blog at https://blog.dharmikshinde.in — practical systems writing, mostly Docker and Linux, written slowly from real experience. Recent pieces include "Ricing macOS Without Losing Your Mind", "Docker Engine Under the Hood", "Docker Compose, Networks & Volumes for Beginners", "Production Docker Builds: 1 GB to 15 MB", and "VMs vs. Containers: What's Actually Different".
 
 ## Beyond the terminal
 
@@ -32,8 +32,8 @@ Technical blog at https://blog.dharmikshinde.tech — practical systems writing,
 
 ## Links
 
-- Site: https://dharmikshinde.tech/
-- Blog: https://blog.dharmikshinde.tech/
+- Site: https://dharmikshinde.in/
+- Blog: https://blog.dharmikshinde.in/
 - GitHub: https://github.com/iamdmix
 - LinkedIn: https://www.linkedin.com/in/dharmik-vivek-shinde-891156282/
 - X: https://x.com/dharmikshinde

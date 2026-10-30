@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
   weight: ["400", "500"],
 });
 
-const site = "https://dharmikshinde.tech";
+const site = "https://dharmikshinde.in";
 
 export const metadata: Metadata = {
   metadataBase: new URL(site),
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     template: "%s — Dharmik Vivek Shinde",
   },
   description:
-    "Dharmik Vivek Shinde on dharmikshinde.tech — systems, Linux, backend engineering, cloud infrastructure, and networking. Home server infrastructure, dotfiles, and writing that demystifies how computers work.",
+    "Dharmik Vivek Shinde on dharmikshinde.in — systems, Linux, backend engineering, cloud infrastructure, and networking. Home server infrastructure, dotfiles, and writing that demystifies how computers work.",
   alternates: { canonical: site },
   openGraph: {
     type: "profile",

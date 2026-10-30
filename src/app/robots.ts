@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       disallow: ["/_next/"],
     },
-    sitemap: "https://dharmikshinde.tech/sitemap.xml",
+    sitemap: "https://dharmikshinde.in/sitemap.xml",
   };
 }

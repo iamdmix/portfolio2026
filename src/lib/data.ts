@@ -1,8 +1,8 @@
 export const person = {
   name: "Dharmik Vivek Shinde",
   kicker: "backend & systems engineer — bengaluru ⇄ chennai, india",
-  site: "https://dharmikshinde.tech",
-  blog: "https://blog.dharmikshinde.tech",
+  site: "https://dharmikshinde.in",
+  blog: "https://blog.dharmikshinde.in",
   email: "dharmikvs26@gmail.com",
 } as const;
 

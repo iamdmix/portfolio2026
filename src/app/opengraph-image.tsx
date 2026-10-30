@@ -74,7 +74,7 @@ export default function Image() {
             <div style={{ display: "flex" }}>
               <span style={{ color: GRAYSCALE.accent }}>{"//"}</span>
               <span style={{ color: GRAYSCALE.mid }}>
-                &nbsp;dharmikshinde.tech
+                &nbsp;dharmikshinde.in
               </span>
             </div>
             <div
