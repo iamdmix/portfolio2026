@@ -67,7 +67,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="en-IN"
       className={`${geistSans.variable} ${bricolage.variable} ${jetbrainsMono.variable} antialiased`}
     >
       <body className="flex flex-col">{children}</body>

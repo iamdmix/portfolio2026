@@ -66,7 +66,22 @@ const jsonLd = {
         credentialCategory: "certification",
         issuedBy: { "@type": "Organization", name: "Amazon Web Services" },
       },
+      contactPoint: [
+        {
+          "@type": "ContactPoint",
+          contactType: "email",
+          email: person.email,
+        },
+      ],
       sameAs,
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${person.site}/#website`,
+      url: person.site,
+      name: person.name,
+      inLanguage: "en-IN",
+      publisher: { "@id": `${person.site}/#person` },
     },
   ],
 };
